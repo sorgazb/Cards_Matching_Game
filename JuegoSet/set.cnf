@@ -1,0 +1,5 @@
+5		número de columnas de 3 cartas con las que se iniciará el juego, valores permitidos 3,4,5
+10		número de puntos que se sumarán cada vez que el usuario complete un SET (> 0)
+50		número de puntos que debe lograr el usuario para ganar (> 0)
+20		número de puntos mínimos para poder solicitar la ayuda (>= 0)
+
